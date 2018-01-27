@@ -67,3 +67,7 @@ body {
   border: 10px solid #d62a2a;
   padding: 8px;
   }
+
+a:hover {
+  text-decoration: underline;
+}
