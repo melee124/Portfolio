@@ -61,3 +61,13 @@ li {
 body {
   background-color: #dbbcbc;
 }
+
+.well {
+  border-style: solid;
+  border-width: thick;
+  border-color: #d62a2a;
+  padding-top: 50px;
+  paddiing-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px
+  }
