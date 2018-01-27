@@ -1,0 +1,58 @@
+h1 {
+  color: pink;
+  text-align: center;
+  font-size: 40px;
+  font-family:
+
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h3 {
+  color:#61a533;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+p {
+  color: gray;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px
+}
+
+ul {
+  color: gray;
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+ol {
+  color: pink;
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+li {
+  color: gray;
+  text-align: center;
+  font-family: sans-serif;
+  font-siz: 30px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron {
+  background-color: #b8dbdb;
+}
