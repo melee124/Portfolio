@@ -15,6 +15,7 @@ h2 {
 
 h3 {
   color:#61a533;
+  text-align: center;
   font-size: 30px;
   font-family: sans-serif;
 }
@@ -55,4 +56,8 @@ li {
 
 .jumbotron {
   background-color: #b8dbdb;
+}
+
+body {
+  background-color: #dbbcbc;
 }
