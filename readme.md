@@ -22,7 +22,7 @@ _No known bugs._
 ## Support and contact details
 
 _Please contact Megan with any issues: melee124@gmail.com
-https://github.com/melee124/Portfolio.git _
+https://github.com/melee124/Portfolio.git_
 
 ## Technologies Used
 
