@@ -32,6 +32,7 @@ ul {
   text-align: center;
   font-size: 25px;
   font-family: sans-serif;
+  list-style: none
 }
 
 ol {
@@ -46,6 +47,7 @@ li {
   text-align: center;
   font-family: sans-serif;
   font-siz: 30px
+  float: left;
 }
 
 .center {
