@@ -66,8 +66,19 @@ body {
   margin: 5px;
   border: 10px solid #d62a2a;
   padding: 8px;
+  background-color: #edc9eb;
   }
 
 a:hover {
   text-decoration: underline;
+}
+
+.col-md-4 {
+  text-align: center;
+}
+
+img {
+  padding: 2px;
+  border: 1px dotted #273449;
+  background-color: #94d893;
 }
